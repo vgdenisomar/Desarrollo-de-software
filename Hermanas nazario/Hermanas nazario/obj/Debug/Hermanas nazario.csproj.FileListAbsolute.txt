@@ -1,0 +1,41 @@
+c:\users\velasquez\documents\visual studio 2015\Projects\Hermanas nazario\Hermanas nazario\bin\Debug\Hermanas nazario.exe.config
+c:\users\velasquez\documents\visual studio 2015\Projects\Hermanas nazario\Hermanas nazario\bin\Debug\Hermanas nazario.exe
+c:\users\velasquez\documents\visual studio 2015\Projects\Hermanas nazario\Hermanas nazario\bin\Debug\Hermanas nazario.pdb
+c:\users\velasquez\documents\visual studio 2015\Projects\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas nazario.csprojResolveAssemblyReference.cache
+c:\users\velasquez\documents\visual studio 2015\Projects\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas_nazario.Properties.Resources.resources
+c:\users\velasquez\documents\visual studio 2015\Projects\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas nazario.csproj.GenerateResource.Cache
+c:\users\velasquez\documents\visual studio 2015\Projects\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas nazario.exe
+c:\users\velasquez\documents\visual studio 2015\Projects\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas nazario.pdb
+c:\users\velasquez\documents\visual studio 2015\Projects\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas_nazario.Registro_pacientes.resources
+c:\users\velasquez\documents\visual studio 2015\Projects\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas_nazario.Carga.resources
+C:\Users\Velasquez\Documents\Visual Studio 2015\Projects\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas_nazario.Busqueda_de_pacientes.resources
+C:\Users\luisa\Desktop\desarrollo de software\desarrollo\Hermanas nazario\Hermanas nazario\bin\Debug\Hermanas nazario.exe.config
+C:\Users\luisa\Desktop\desarrollo de software\desarrollo\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas nazario.exe
+C:\Users\luisa\Desktop\desarrollo de software\desarrollo\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas nazario.pdb
+C:\Users\luisa\Desktop\desarrollo de software\desarrollo\Hermanas nazario\Hermanas nazario\bin\Debug\Hermanas nazario.exe
+C:\Users\luisa\Desktop\desarrollo de software\desarrollo\Hermanas nazario\Hermanas nazario\bin\Debug\Hermanas nazario.pdb
+C:\Users\luisa\Desktop\desarrollo de software\desarrollo\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas nazario.csprojResolveAssemblyReference.cache
+C:\Users\luisa\Desktop\desarrollo de software\desarrollo\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas_nazario.Busqueda_de_pacientes.resources
+C:\Users\luisa\Desktop\desarrollo de software\desarrollo\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas_nazario.Registro_pacientes.resources
+C:\Users\luisa\Desktop\desarrollo de software\desarrollo\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas_nazario.Carga.resources
+C:\Users\luisa\Desktop\desarrollo de software\desarrollo\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas_nazario.Properties.Resources.resources
+C:\Users\luisa\Desktop\desarrollo de software\desarrollo\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas nazario.csproj.GenerateResource.Cache
+C:\Users\luisa\Desktop\desarrollo de software\desarrollo\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas_nazario.Login.resources
+C:\Users\luisa\Desktop\desarrollo de software\desarrollo\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas_nazario.menu.resources
+C:\Users\luisa\Desktop\desarrollo de software\desarrollo\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas_nazario.ModifcacionPaciente.resources
+C:\Users\Velasquez\Downloads\Hermanas nazario\Hermanas nazario\bin\Debug\Hermanas nazario.exe.config
+C:\Users\Velasquez\Downloads\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas nazario.exe
+C:\Users\Velasquez\Downloads\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas nazario.pdb
+C:\Users\Velasquez\Downloads\Hermanas nazario\Hermanas nazario\bin\Debug\Hermanas nazario.exe
+C:\Users\Velasquez\Downloads\Hermanas nazario\Hermanas nazario\bin\Debug\Hermanas nazario.pdb
+C:\Users\Velasquez\Downloads\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas nazario.csprojResolveAssemblyReference.cache
+C:\Users\Velasquez\Downloads\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas_nazario.Busqueda_de_pacientes.resources
+C:\Users\Velasquez\Downloads\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas_nazario.Login.resources
+C:\Users\Velasquez\Downloads\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas_nazario.menu.resources
+C:\Users\Velasquez\Downloads\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas_nazario.ModifcacionPaciente.resources
+C:\Users\Velasquez\Downloads\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas_nazario.Registro_pacientes.resources
+C:\Users\Velasquez\Downloads\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas_nazario.Carga.resources
+C:\Users\Velasquez\Downloads\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas_nazario.Properties.Resources.resources
+C:\Users\Velasquez\Downloads\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas nazario.csproj.GenerateResource.Cache
+C:\Users\Velasquez\Downloads\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas_nazario.Registro_de_usuario.resources
+C:\Users\Velasquez\Downloads\Hermanas nazario\Hermanas nazario\obj\Debug\Hermanas_nazario.Registro_empleado.resources
