@@ -1,0 +1,12 @@
+c:\users\velasquez\documents\visual studio 2015\Projects\Transportes\Transportes\bin\Debug\Transportes.exe.config
+c:\users\velasquez\documents\visual studio 2015\Projects\Transportes\Transportes\bin\Debug\Transportes.exe
+c:\users\velasquez\documents\visual studio 2015\Projects\Transportes\Transportes\bin\Debug\Transportes.pdb
+c:\users\velasquez\documents\visual studio 2015\Projects\Transportes\Transportes\obj\Debug\Transportes.csprojResolveAssemblyReference.cache
+c:\users\velasquez\documents\visual studio 2015\Projects\Transportes\Transportes\obj\Debug\Transportes.Form1.resources
+c:\users\velasquez\documents\visual studio 2015\Projects\Transportes\Transportes\obj\Debug\Transportes.Properties.Resources.resources
+c:\users\velasquez\documents\visual studio 2015\Projects\Transportes\Transportes\obj\Debug\Transportes.csproj.GenerateResource.Cache
+c:\users\velasquez\documents\visual studio 2015\Projects\Transportes\Transportes\obj\Debug\Transportes.exe
+c:\users\velasquez\documents\visual studio 2015\Projects\Transportes\Transportes\obj\Debug\Transportes.pdb
+C:\Users\Velasquez\Documents\Visual Studio 2015\Projects\Transportes\Transportes\obj\Debug\Transportes.Aereo.resources
+C:\Users\Velasquez\Documents\Visual Studio 2015\Projects\Transportes\Transportes\obj\Debug\Transportes.Automovi_.resources
+C:\Users\Velasquez\Documents\Visual Studio 2015\Projects\Transportes\Transportes\obj\Debug\Transportes.Terrestre.resources
